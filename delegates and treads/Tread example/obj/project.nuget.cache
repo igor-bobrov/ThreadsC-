@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "FzlEma+gz9aXws/Kzr+syz1xibgjgrHQWIWCKSX1qAAPjxq4tb54j8ZUpvSUpBHRFZh78oq5e/PbXbb0IEcD0w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Win10m\\source\\repos\\delegates and treads\\Tread example\\Tread example.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Win10m\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.16\\microsoft.netcore.app.host.win-x64.5.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}

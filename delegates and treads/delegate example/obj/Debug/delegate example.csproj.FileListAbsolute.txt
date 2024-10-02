@@ -1,0 +1,7 @@
+C:\Users\Win10m\source\repos\delegates and treads\delegate example\bin\Debug\delegate example.exe.config
+C:\Users\Win10m\source\repos\delegates and treads\delegate example\bin\Debug\delegate example.exe
+C:\Users\Win10m\source\repos\delegates and treads\delegate example\bin\Debug\delegate example.pdb
+C:\Users\Win10m\source\repos\delegates and treads\delegate example\obj\Debug\delegate example.csproj.AssemblyReference.cache
+C:\Users\Win10m\source\repos\delegates and treads\delegate example\obj\Debug\delegate example.csproj.CoreCompileInputs.cache
+C:\Users\Win10m\source\repos\delegates and treads\delegate example\obj\Debug\delegate example.exe
+C:\Users\Win10m\source\repos\delegates and treads\delegate example\obj\Debug\delegate example.pdb

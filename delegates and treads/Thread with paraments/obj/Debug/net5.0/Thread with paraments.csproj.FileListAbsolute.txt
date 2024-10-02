@@ -1,0 +1,16 @@
+C:\Users\Win10m\source\repos\delegates and treads\Thread with paraments\bin\Debug\net5.0\Thread with paraments.exe
+C:\Users\Win10m\source\repos\delegates and treads\Thread with paraments\bin\Debug\net5.0\Thread with paraments.deps.json
+C:\Users\Win10m\source\repos\delegates and treads\Thread with paraments\bin\Debug\net5.0\Thread with paraments.runtimeconfig.json
+C:\Users\Win10m\source\repos\delegates and treads\Thread with paraments\bin\Debug\net5.0\Thread with paraments.runtimeconfig.dev.json
+C:\Users\Win10m\source\repos\delegates and treads\Thread with paraments\bin\Debug\net5.0\Thread with paraments.dll
+C:\Users\Win10m\source\repos\delegates and treads\Thread with paraments\bin\Debug\net5.0\ref\Thread with paraments.dll
+C:\Users\Win10m\source\repos\delegates and treads\Thread with paraments\bin\Debug\net5.0\Thread with paraments.pdb
+C:\Users\Win10m\source\repos\delegates and treads\Thread with paraments\obj\Debug\net5.0\Thread with paraments.csproj.AssemblyReference.cache
+C:\Users\Win10m\source\repos\delegates and treads\Thread with paraments\obj\Debug\net5.0\Thread with paraments.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Win10m\source\repos\delegates and treads\Thread with paraments\obj\Debug\net5.0\Thread with paraments.AssemblyInfoInputs.cache
+C:\Users\Win10m\source\repos\delegates and treads\Thread with paraments\obj\Debug\net5.0\Thread with paraments.AssemblyInfo.cs
+C:\Users\Win10m\source\repos\delegates and treads\Thread with paraments\obj\Debug\net5.0\Thread with paraments.csproj.CoreCompileInputs.cache
+C:\Users\Win10m\source\repos\delegates and treads\Thread with paraments\obj\Debug\net5.0\Thread with paraments.dll
+C:\Users\Win10m\source\repos\delegates and treads\Thread with paraments\obj\Debug\net5.0\ref\Thread with paraments.dll
+C:\Users\Win10m\source\repos\delegates and treads\Thread with paraments\obj\Debug\net5.0\Thread with paraments.pdb
+C:\Users\Win10m\source\repos\delegates and treads\Thread with paraments\obj\Debug\net5.0\Thread with paraments.genruntimeconfig.cache
